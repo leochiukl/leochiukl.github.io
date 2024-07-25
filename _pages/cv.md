@@ -11,54 +11,36 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* [Bachelor of Science in Actuarial Science](https://saasweb.hku.hk/programme/as.php), The University of Hong Kong, 2026 (expected)
+  * Minor in Mathematics
+  * CGPA: 4.03/4.30
 
-Work experience
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Undergraduate Research Fellow (Jun 2024 -- Present)
+  * Department of Statistics and Actuarial Science, The University of Hong Kong
+  * [URFP](https://www.scifac.hku.hk/current/ug/el/research/undergraduate-research-fellowship-programme-urfp) 2024-25: Project Course ([STAT4798](https://saasweb.hku.hk/courses/as-project/)) & Summer Research Internship
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Actuarial Intern (Jun 2023 -- Jan 2024)
+  * Prudential Corporation Asia
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Professional Qualifications
+=====
+* [SOA](https://www.soa.org/) Examinations Passed: P, FM
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* [Student Peer Advisor](https://www.scifac.hku.hk/current/ug/academic/aa), Faculty of Science, The University of Hong Kong (Aug 2022 - Present)
+* [Science Student Ambassador](https://www.scifac.hku.hk/current/ug/el/others/ssas), Faculty of Science, The University of Hong Kong (Oct 2021 - Present)
+
+Awards
+======
+* Best Performance Intern Award (2023 2nd Half)
+  * Prudential Corporation Asia
+* Dean's Honours List 2021-23
+* Dr Patrick S C Poon Scholarship in Actuarial Science (2021-22)
+
+Skills
+======
+* Computer: LaTeX, R, Python, VBA, MS Office and Git
+* Language: Cantonesse (native), English (fluent) and Mandarin (fluent)
