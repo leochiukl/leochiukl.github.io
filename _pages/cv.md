@@ -14,6 +14,9 @@ Education
 * [Bachelor of Science in Actuarial Science](https://saasweb.hku.hk/programme/as.php), The University of Hong Kong, 2026 (expected)
   * Minor in Mathematics
   * CGPA: 4.03/4.30
+  * Awards:
+    * Dean's Honours List 2021-23
+    * Dr Patrick S C Poon Scholarship in Actuarial Science (2021-22)
 
 Experience
 ======
@@ -23,6 +26,8 @@ Experience
 
 * Actuarial Intern (Jun 2023 -- Jan 2024)
   * Prudential Corporation Asia
+  * ALM Stochastic Modelling Team
+  * Best Performance Intern Award (2023 2nd Half)
 
 Professional Qualifications
 =====
@@ -33,14 +38,7 @@ Service and leadership
 * [Student Peer Advisor](https://www.scifac.hku.hk/current/ug/academic/aa), Faculty of Science, The University of Hong Kong (Aug 2022 - Present)
 * [Science Student Ambassador](https://www.scifac.hku.hk/current/ug/el/others/ssas), Faculty of Science, The University of Hong Kong (Oct 2021 - Present)
 
-Awards
-======
-* Best Performance Intern Award (2023 2nd Half)
-  * Prudential Corporation Asia
-* Dean's Honours List 2021-23
-* Dr Patrick S C Poon Scholarship in Actuarial Science (2021-22)
-
 Skills
 ======
 * Computer: LaTeX, R, Python, VBA, MS Office and Git
-* Language: Cantonesse (native), English (fluent) and Mandarin (fluent)
+* Language: Cantonese (native), English (fluent) and Mandarin (fluent)

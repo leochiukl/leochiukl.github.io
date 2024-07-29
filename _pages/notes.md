@@ -2,20 +2,20 @@
 layout: archive
 title: "Notes"
 permalink: /notes/
-author_profile: true
+author_profile: false
 ---
 
 {% include base_path %}
 
 ## HKU Course Notes
 Here collects my personal notes for some HKU courses (mainly actuarial science
-courses). Note that they are unofficial and may not completely match with the
-syllabus.
+courses). Note that they are unofficial and may not completely reflect the
+actual course content.
 
 Feel free to contact me if you have any questions/comments.
 
 * STAT2902 Financial mathematics ([syllabus](https://webapp.science.hku.hk/sr4/servlet/enquiry?Type=Course&course_code=STAT2902))
-   * study notes (under construction)
+   * [study notes (pdf)](/files/stat2902-study-notes.pdf)
    * [GitHub repository](https://github.com/leochiukl/HKU-STAT2902-notes)
    * related SOA exam: [FM](https://www.soa.org/education/exam-req/edu-exam-fm-detail.aspx)
 * STAT3901 Life contingencies I ([syllabus](https://webapp.science.hku.hk/sr4/servlet/enquiry?Type=Course&course_code=STAT3901))

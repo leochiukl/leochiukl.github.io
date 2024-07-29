@@ -1,10 +1,11 @@
 ---
 permalink: /
-title: "About me"
+title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi, I am Leo, a year 3 HKU actuarial science student.
+I am Leo, a rising year 4 HKU actuarial science student who is interested in
+research.
