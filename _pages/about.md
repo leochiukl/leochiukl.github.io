@@ -7,5 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am Leo, a rising year 4 HKU actuarial science student who is interested in
-research.
+I am Leo, a year 4 HKU actuarial science student who is interested in research.
