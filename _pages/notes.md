@@ -24,7 +24,3 @@ Feel free to contact me if you have any questions/comments.
    * [[pdf](/files/stat3905-study-notes.pdf)] [[repo](https://github.com/leochiukl/HKU-STAT3905-notes)]
 * STAT3906 Risk theory I ([syllabus](https://webapp.science.hku.hk/sr4/servlet/enquiry?Type=Course&course_code=STAT3906))
    * [[pdf](/files/stat3906-study-notes.pdf)] [[repo](https://github.com/leochiukl/HKU-STAT3906-notes)]
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}

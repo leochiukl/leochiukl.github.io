@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Chiu Ka Long (Leo)"
 title_separator          : "-"
 name                     : &name "Chiu Ka Long (Leo)"
-description              : &description "HKU Actuarial Science student"
+description              :
 url                      : https://leochiukl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "leochiukl/leochiukl.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "personal-photo.jpg"
   name             : "Chiu Ka Long (Leo)"
   pronouns         : # example: "she/her"
-  bio              : "HKU Actuarial science student"
+  bio              : "HKU Actuarial Science student"
   location         :
   employer         : "The University of Hong Kong"
   uri              : # URL
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    :
   impactstory      : # URL
-  orcid            :
+  orcid            : "https://orcid.org/0009-0005-6699-6423"
   semantic         : # URL
   pubmed           :
   researchgate     : # URL
