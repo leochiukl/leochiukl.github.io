@@ -2,18 +2,18 @@
 layout: archive
 title: "Notes"
 permalink: /notes/
-author_profile: false
+author_profile: true
 ---
 
 {% include base_path %}
 
 ## HKU Course Notes
-Here collects my personal notes for some HKU courses (mainly actuarial science
-courses). Note that they are unofficial and may not completely reflect the
-actual course content.
+Here collects my personal notes for some HKU courses. Note that they are
+unofficial and may not completely reflect the actual course content.
 
 Feel free to contact me if you have any questions/comments.
 
+### Actuarial Science Courses
 * STAT2902 Financial mathematics ([syllabus](https://webapp.science.hku.hk/sr4/servlet/enquiry?Type=Course&course_code=STAT2902))
    * [[pdf](/files/stat2902-study-notes.pdf)] [[repo](https://github.com/leochiukl/HKU-STAT2902-notes)]
 * STAT3901 Life contingencies I ([syllabus](https://webapp.science.hku.hk/sr4/servlet/enquiry?Type=Course&course_code=STAT3901))
@@ -24,3 +24,11 @@ Feel free to contact me if you have any questions/comments.
    * [[pdf](/files/stat3905-study-notes.pdf)] [[repo](https://github.com/leochiukl/HKU-STAT3905-notes)]
 * STAT3906 Risk theory I ([syllabus](https://webapp.science.hku.hk/sr4/servlet/enquiry?Type=Course&course_code=STAT3906))
    * [[pdf](/files/stat3906-study-notes.pdf)] [[repo](https://github.com/leochiukl/HKU-STAT3906-notes)]
+* STAT3910 Financial economics I ([syllabus](https://webapp.science.hku.hk/sr4/servlet/enquiry?Type=Course&course_code=STAT3910))
+   * [[pdf](/files/stat3910-study-notes.pdf)] [[repo](https://github.com/leochiukl/HKU-STAT3910-notes)]
+
+### Mathematics Courses
+* MATH2101 Linear algebra I ([syllabus](https://webapp.science.hku.hk/sr4/servlet/enquiry?Type=Course&course_code=MATH2101))
+   * [[pdf](/files/math2101-study-notes.pdf)] [[repo](https://github.com/leochiukl/HKU-MATH2101-notes)]
+* MATH3401 Analysis I ([syllabus](https://webapp.science.hku.hk/sr4/servlet/enquiry?Type=Course&course_code=MATH3401))
+   * [[pdf](/files/math3401-study-notes.pdf)] [[repo](https://github.com/leochiukl/HKU-MATH3401-notes)]
