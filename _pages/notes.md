@@ -24,6 +24,8 @@ Feel free to contact me if you have any questions/comments.
    * [[pdf](/files/stat3905-study-notes.pdf)] [[repo](https://github.com/leochiukl/HKU-STAT3905-notes)]
 * STAT3906 Risk theory I ([syllabus](https://webapp.science.hku.hk/sr4/servlet/enquiry?Type=Course&course_code=STAT3906))
    * [[pdf](/files/stat3906-study-notes.pdf)] [[repo](https://github.com/leochiukl/HKU-STAT3906-notes)]
+* STAT3909 Life contingencies II ([syllabus](https://webapp.science.hku.hk/sr4/servlet/enquiry?Type=Course&course_code=STAT3909))
+   * [[pdf](/files/stat3909-study-notes.pdf)] [[repo](https://github.com/leochiukl/HKU-STAT3909-notes)]
 * STAT3910 Financial economics I ([syllabus](https://webapp.science.hku.hk/sr4/servlet/enquiry?Type=Course&course_code=STAT3910))
    * [[pdf](/files/stat3910-study-notes.pdf)] [[repo](https://github.com/leochiukl/HKU-STAT3910-notes)]
 
