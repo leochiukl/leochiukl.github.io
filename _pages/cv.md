@@ -12,7 +12,7 @@ redirect_from:
 # Education
 * [Bachelor of Science in Actuarial Science](https://saasweb.hku.hk/programme/as.php), The University of Hong Kong, 2026 (expected)
   * Minor in Mathematics
-  * CGPA: 4.03/4.30
+  * CGPA: 4.05/4.30
   * Awards:
     * Dean's Honours List (2021-22, 2022-23)
     * Dr Patrick S C Poon Scholarship in Actuarial Science (2021-22)
