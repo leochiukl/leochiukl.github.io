@@ -14,6 +14,9 @@ redirect_from:
   * Minor in Mathematics
   * CGPA: 4.05/4.30
   * Awards:
+    * The Hong Kong Federation of Insurers Scholarship (2024-25)
+    * The Life Underwriters Association of Hong Kong Scholarship (2024-25)
+    * URFP Research Internship Award (2024-25)
     * Dean's Honours List (2021-22, 2022-23)
     * Dr Patrick S C Poon Scholarship in Actuarial Science (2021-22)
 
@@ -34,7 +37,7 @@ redirect_from:
 
 Professional Qualifications
 =====
-* [SOA](https://www.soa.org/) Exams Passed: P, FM, SRM (UEC)
+* [SOA](https://www.soa.org/) Exams Passed: P, FM, SRM (UEC), FAM
 
 Service and Leadership
 ======
