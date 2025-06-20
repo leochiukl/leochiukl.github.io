@@ -12,7 +12,7 @@ redirect_from:
 # Education
 * [Bachelor of Science in Actuarial Science](https://saasweb.hku.hk/programme/as.php), The University of Hong Kong, 2026 (expected)
   * Minor in Mathematics
-  * CGPA: 4.05/4.30
+  * CGPA: 4.08/4.30
   * Awards:
     * The Hong Kong Federation of Insurers Scholarship (2024-25)
     * The Life Underwriters Association of Hong Kong Scholarship (2024-25)
