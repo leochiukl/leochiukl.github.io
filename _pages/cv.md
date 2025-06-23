@@ -14,11 +14,11 @@ redirect_from:
   * Minor in Mathematics
   * CGPA: 4.08/4.30
   * Awards:
-    * The Hong Kong Federation of Insurers Scholarship (2024-25)
-    * The Life Underwriters Association of Hong Kong Scholarship (2024-25)
-    * URFP Research Internship Award (2024-25)
-    * Dean's Honours List (2021-22, 2022-23)
-    * Dr Patrick S C Poon Scholarship in Actuarial Science (2021-22)
+    * The Hong Kong Federation of Insurers Scholarship (2024--25)
+    * The Life Underwriters Association of Hong Kong Scholarship (2024--25)
+    * URFP Research Internship Award (2024--25)
+    * Dean's Honours List (2021--22, 2022--23, 2024--25)
+    * Dr Patrick S C Poon Scholarship in Actuarial Science (2021--22)
 
 # Experience
 * Undergraduate Research Fellow (Jun 2024 -- Dec 2024)
@@ -41,9 +41,9 @@ Professional Qualifications
 
 Service and Leadership
 ======
-* [Student Experiential Learning Ambassador](https://www.scifac.hku.hk/current/ug/el/experiential-learning-ambassadors-student-sharing-list), Faculty of Science, The University of Hong Kong (Sep 2024 - Present)
-* [Student Peer Advisor](https://www.scifac.hku.hk/current/ug/academic/aa), Faculty of Science, The University of Hong Kong (Aug 2022 - Present)
-* [Science Student Ambassador](https://www.scifac.hku.hk/current/ug/el/others/ssas), Faculty of Science, The University of Hong Kong (Oct 2021 - Present)
+* [Student Experiential Learning Ambassador](https://www.scifac.hku.hk/current/ug/el/experiential-learning-ambassadors-student-sharing-list), Faculty of Science, The University of Hong Kong (Sep 2024 -- Present)
+* [Student Peer Advisor](https://www.scifac.hku.hk/current/ug/academic/aa), Faculty of Science, The University of Hong Kong (Aug 2022 -- Present)
+* [Science Student Ambassador](https://www.scifac.hku.hk/current/ug/el/others/ssas), Faculty of Science, The University of Hong Kong (Oct 2021 -- Present)
 
 Skills
 ======
