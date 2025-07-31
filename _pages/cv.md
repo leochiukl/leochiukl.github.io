@@ -21,6 +21,8 @@ redirect_from:
     * Dr Patrick S C Poon Scholarship in Actuarial Science (2021--22)
 
 # Experience
+* Student Research Assistant (Jul 2025 -- Present)
+  * School of Computing and Data Science, The University of Hong Kong
 * Undergraduate Research Fellow (Jun 2024 -- Dec 2024)
   * Department of Statistics and Actuarial Science, The University of Hong Kong
   * [URFP](https://www.scifac.hku.hk/current/ug/el/research/undergraduate-research-fellowship-programme-urfp) 2024-25: Project Course ([STAT4798](https://saasweb.hku.hk/courses/as-project/)) & Summer Research Internship
@@ -48,4 +50,4 @@ Service and Leadership
 Skills
 ======
 * Computer: LaTeX, R, Python, Git, VBA, and MS Office.
-* Language: Cantonese (native), English (fluent) and Mandarin (fluent)
+* Language: Cantonese (native), English (fluent), and Mandarin (fluent)
