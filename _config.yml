@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Chiu Ka Long (Leo)"
+title                    : "Ka Long (Leo) Chiu"
 title_separator          : "-"
-name                     : &name "Chiu Ka Long (Leo)"
+name                     : &name "Ka Long (Leo) Chiu"
 description              :
 url                      : https://leochiukl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "leochiukl/leochiukl.github.io"
 author:
   # Biographic information
   avatar           : "personal-photo.jpg"
-  name             : "Chiu Ka Long (Leo)"
+  name             : "Ka Long (Leo) Chiu"
   pronouns         : # example: "she/her"
   bio              : "HKU Actuarial Science student"
   location         :
