@@ -26,7 +26,6 @@ redirect_from:
 * Undergraduate Research Fellow (Jun 2024 -- Dec 2024)
   * Department of Statistics and Actuarial Science, The University of Hong Kong
   * [URFP](https://www.scifac.hku.hk/current/ug/el/research/undergraduate-research-fellowship-programme-urfp) 2024-25: Project Course ([STAT4798](https://saasweb.hku.hk/courses/as-project/)) & Summer Research Internship
-  * Preprint: Boonen, T. J., & Chiu, K. L. (2024). Peer-to-peer risk sharing schemes with heterogeneity and infinite-mean losses. Available at SSRN: <https://papers.ssrn.com/abstract=5013193>
 
 * Peer Tutor (Sep 2024 -- Dec 2024)
   * Department of Statistics and Actuarial Science, The University of Hong Kong
