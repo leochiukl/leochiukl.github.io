@@ -42,9 +42,10 @@ Professional Qualifications
 
 Service and Leadership
 ======
+* Student Ambassador, School of Computing and Data Science, The University of Hong Kong (Sep 2025 -- Present)
 * [Student Peer Advisor](https://www.scifac.hku.hk/current/ug/academic/aa), Faculty of Science, The University of Hong Kong (Aug 2022 -- Present)
+* [Science Student Ambassador](https://www.scifac.hku.hk/current/ug/el/others/ssas), Faculty of Science, The University of Hong Kong (Oct 2021 -- Present)
 * [Student Experiential Learning Ambassador](https://www.scifac.hku.hk/current/ug/el/experiential-learning-ambassadors-student-sharing-list), Faculty of Science, The University of Hong Kong (Sep 2024 -- Aug 2025)
-* [Science Student Ambassador](https://www.scifac.hku.hk/current/ug/el/others/ssas), Faculty of Science, The University of Hong Kong (Oct 2021 -- Aug 2025)
 
 Skills
 ======
