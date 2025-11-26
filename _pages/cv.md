@@ -38,7 +38,7 @@ redirect_from:
 
 Professional Qualifications
 =====
-* [SOA](https://www.soa.org/) Exams Passed: P, FM, SRM (UEC), FAM
+* [SOA](https://www.soa.org/) Exams Passed: P, FM, SRM (UEC), FAM, PA
 
 Service and Leadership
 ======
