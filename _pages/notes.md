@@ -28,8 +28,12 @@ Feel free to contact me if you have any questions/comments.
    * [[pdf](/files/stat3910-study-notes.pdf)] [[repo](https://github.com/leochiukl/HKU-STAT3910-notes)]
 * STAT3911 Financial economics II ([syllabus](https://webapp.science.hku.hk/sr4/servlet/enquiry?Type=Course&course_code=STAT3911))
    * [[pdf](/files/stat3911-study-notes.pdf)] [[repo](https://github.com/leochiukl/HKU-STAT3911-notes)]
+* STAT3956 Life contingencies III ([syllabus](https://webapp.science.hku.hk/sr4/servlet/enquiry?Type=Course&course_code=STAT3956))
+   * [[pdf](/files/stat3956-study-notes.pdf)] [[repo](https://github.com/leochiukl/HKU-STAT3956-notes)]
 
 ### Statistics Courses
+* STAT6009/STAT7609 Research methods in statistics ([syllabus](https://webapp.science.hku.hk/sr4/servlet/enquiry?Type=Course&course_code=STAT7609))
+   * [[pdf](/files/stat7609-study-notes.pdf)] [[repo](https://github.com/leochiukl/HKU-STAT7609-notes)]
 * STAT6010/STAT7610 Advanced probability ([syllabus](https://webapp.science.hku.hk/sr4/servlet/enquiry?Type=Course&course_code=STAT7610))
    * [[pdf](/files/stat7610-study-notes.pdf)] [[repo](https://github.com/leochiukl/HKU-STAT7610-notes)]
 
@@ -40,3 +44,5 @@ Feel free to contact me if you have any questions/comments.
    * [[pdf](/files/math3401-study-notes.pdf)] [[repo](https://github.com/leochiukl/HKU-MATH3401-notes)]
 * MATH3901 Operations research I ([syllabus](https://webapp.science.hku.hk/sr4/servlet/enquiry?Type=Course&course_code=MATH3901))
    * [[pdf](/files/math3901-study-notes.pdf)] [[repo](https://github.com/leochiukl/HKU-MATH3901-notes)]
+* MATH3904 Introduction to optimization ([syllabus](https://webapp.science.hku.hk/sr4/servlet/enquiry?Type=Course&course_code=MATH3904))
+   * [[pdf](/files/math3904-study-notes.pdf)] [[repo](https://github.com/leochiukl/HKU-MATH3904-notes)]
