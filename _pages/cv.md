@@ -21,7 +21,7 @@ redirect_from:
     * Dr Patrick S C Poon Scholarship in Actuarial Science (2021--22)
 
 # Experience
-* Peer Tutor (Sep 2024 -- Dec 2024; Sep 2025 -- Present)
+* Peer Tutor (Sep 2024 -- Dec 2024; Sep 2025 -- Dec 2025)
   * Department of Statistics and Actuarial Science, The University of Hong Kong
   * [STAT3901 Life contingencies I](https://webapp.science.hku.hk/sr4/servlet/enquiry?Type=Course&course_code=STAT3901) (Fall 2024, Fall 2025)
 
@@ -42,9 +42,9 @@ Professional Qualifications
 
 Service and Leadership
 ======
-* Student Ambassador, School of Computing and Data Science, The University of Hong Kong (Sep 2025 -- Present)
-* [Student Peer Advisor](https://www.scifac.hku.hk/current/ug/academic/aa), Faculty of Science, The University of Hong Kong (Aug 2022 -- Present)
-* [Science Student Ambassador](https://www.scifac.hku.hk/current/ug/el/others/ssas), Faculty of Science, The University of Hong Kong (Oct 2021 -- Present)
+* Student Ambassador, School of Computing and Data Science, The University of Hong Kong (Sep 2025 -- Dec 2025)
+* [Student Peer Advisor](https://www.scifac.hku.hk/current/ug/academic/aa), Faculty of Science, The University of Hong Kong (Aug 2022 -- Dec 2025)
+* [Science Student Ambassador](https://www.scifac.hku.hk/current/ug/el/others/ssas), Faculty of Science, The University of Hong Kong (Oct 2021 -- Dec 2025)
 * [Student Experiential Learning Ambassador](https://www.scifac.hku.hk/current/ug/el/experiential-learning-ambassadors-student-sharing-list), Faculty of Science, The University of Hong Kong (Sep 2024 -- Aug 2025)
 
 Skills

@@ -5,6 +5,9 @@ permalink: /research/
 ---
 
 {% include base_path %}
+My research interests include: Actuarial Science and Risk Sharing.  I am open
+for research collaboration; feel free to contact me if you are interested in
+working with me.
 
 ## Working Papers
 0. [Boonen, T. J.](https://saasresearch.hku.hk/~tjboonen/), & Chiu, K. L. (2025+). Serial risk sharing. [[SSRN](https://papers.ssrn.com/abstract=5373316)]
