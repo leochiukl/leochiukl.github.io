@@ -16,6 +16,7 @@ redirect_from:
   * Awards:
     * The Hong Kong Federation of Insurers Scholarship (2024--25)
     * The Life Underwriters Association of Hong Kong Scholarship (2024--25)
+    * Sponsorship for International Scientific Conference Participation (2024--25)
     * URFP Research Internship Award (2024--25)
     * Dean's Honours List (2021--22; 2022--23; 2024--25)
     * Dr Patrick S C Poon Scholarship in Actuarial Science (2021--22)
