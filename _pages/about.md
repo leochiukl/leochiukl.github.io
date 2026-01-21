@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am Leo, a final-year HKU actuarial science student who is interested in research and teaching.
+I am Leo, an HKU actuarial science graduate who is interested in research and teaching.

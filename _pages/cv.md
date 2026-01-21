@@ -12,7 +12,7 @@ redirect_from:
 # Education
 * [Bachelor of Science in Actuarial Science](https://saasweb.hku.hk/programme/as.php), The University of Hong Kong, 2026
   * Minor in Mathematics
-  * First Class Honours (GPA: 4.05/4.30)
+  * First Class Honours (GPA: 4.04/4.30)
   * Awards:
     * The Hong Kong Federation of Insurers Scholarship (2024--25)
     * The Life Underwriters Association of Hong Kong Scholarship (2024--25)
