@@ -10,7 +10,7 @@ for research collaboration; feel free to contact me if you are interested in
 working with me.
 
 ## Publications/Working Papers
-0. [Boonen, T. J.](https://saasresearch.hku.hk/~tjboonen/), & Chiu, K. L. (2026). Peer-to-peer risk-sharing schemes with heterogeneity and infinite-mean losses. _North American Actuarial Journal_ (forthcoming). [[SSRN](https://papers.ssrn.com/abstract=5013193)]
+0. [Boonen, T. J.](https://saasresearch.hku.hk/~tjboonen/), & Chiu, K. L. (2026). [Peer-to-peer risk-sharing schemes with heterogeneity and infinite-mean losses](https://www.tandfonline.com/doi/full/10.1080/10920277.2026.2612751). [_North American Actuarial Journal_](https://www.tandfonline.com/journals/uaaj20), 1-22. [[SSRN](https://papers.ssrn.com/abstract=5013193)]
 0. [Boonen, T. J.](https://saasresearch.hku.hk/~tjboonen/), & Chiu, K. L. (2025+). Serial risk sharing. [[SSRN](https://papers.ssrn.com/abstract=5373316)]
 {: reversed="reversed"}
 
