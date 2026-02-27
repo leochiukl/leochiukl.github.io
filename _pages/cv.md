@@ -40,7 +40,7 @@ redirect_from:
 Professional Qualifications
 =====
 * [SOA](https://www.soa.org/)
-  * Exams Passed: P, FM, SRM (UEC), FAM, PA
+  * Exams Passed: P, FM, SRM (UEC), FAM, PA, ATPA
   * Modules Passed: VEE Economics, Accounting and Finance, and Mathematical Statistics; FSA Enterprise Risk Management, Financial Modeling, and Scenario Modeling Modules
 
 Service and Leadership
