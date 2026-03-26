@@ -14,6 +14,7 @@ redirect_from:
   * Minor in Mathematics
   * First Class Honours (GPA: 4.05/4.30)
   * Awards:
+    * YF Life Scholarship in Actuarial Science and Risk Management (2023--24; 2025--26)
     * The Hong Kong Federation of Insurers Scholarship (2024--25)
     * The Life Underwriters Association of Hong Kong Scholarship (2024--25)
     * Sponsorship for International Scientific Conference Participation (2024--25)
