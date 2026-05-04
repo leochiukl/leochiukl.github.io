@@ -13,6 +13,7 @@ redirect_from:
 * [Bachelor of Science in Actuarial Science](https://saasweb.hku.hk/programme/as.php), The University of Hong Kong, 2026
   * Minor in Mathematics
   * First Class Honours (GPA: 4.05/4.30)
+  * Supervisors: [Prof. Tim Boonen](https://saasresearch.hku.hk/~tjboonen/) and [Prof. Ka Chun Cheung](https://saasresearch.hku.hk/~kccg/)
   * Awards:
     * YF Life Scholarship in Actuarial Science and Risk Management (2023--24; 2025--26)
     * The Hong Kong Federation of Insurers Scholarship (2024--25)
@@ -23,15 +24,22 @@ redirect_from:
     * Dr Patrick S C Poon Scholarship in Actuarial Science (2021--22)
 
 # Experience
+* Junior Research Assistant (May 2026 -- Present)
+  * Department of Statistics and Data Science, The Chinese University of Hong Kong
+  * Supervisor: [Prof. Phillip Yam](https://www.sta.cuhk.edu.hk/scpy/)
+
 * Peer Tutor (Sep 2024 -- Dec 2024; Sep 2025 -- Dec 2025)
   * Department of Statistics and Actuarial Science, The University of Hong Kong
   * [STAT3901 Life contingencies I](https://webapp.science.hku.hk/sr4/servlet/enquiry?Type=Course&course_code=STAT3901) (Fall 2024, Fall 2025)
 
 * Student Research Assistant (Jul 2025 -- Aug 2025)
   * School of Computing and Data Science, The University of Hong Kong
+  * Supervisor: Prof. Tim Boonen
+
 * Undergraduate Research Fellow (Jun 2024 -- Dec 2024)
   * Department of Statistics and Actuarial Science, The University of Hong Kong
   * [URFP](https://www.scifac.hku.hk/current/ug/el/research/undergraduate-research-fellowship-programme-urfp) 2024-25: Project Course ([STAT4798](https://saasweb.hku.hk/courses/as-project/)) & Summer Research Internship
+  * Supervisors: Prof. Tim Boonen and Prof. Ka Chun Cheung
 
 * Actuarial Intern (Jun 2023 -- Jan 2024)
   * Prudential Corporation Asia
