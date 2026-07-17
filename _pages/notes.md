@@ -8,10 +8,12 @@ author_profile: true
 {% include base_path %}
 
 ## HKU Course Notes
-Here collects my personal notes for some HKU courses. Note that they are
-unofficial and may not completely reflect the actual course content.
-
-Feel free to contact me if you have any questions/comments.
+Here collects my personal notes for some HKU courses. Please note that these
+materials are unofficial and may not fully reflect the actual course content.
+If you have any questions or comments about the notes, or would like further
+assistance with the materials, please feel free to contact me via
+[email](mailto:leockl@connect.hku.hk) or other means. I would be happy to
+discuss the topics covered and help clarify anything you find unclear.
 
 ### Actuarial Science Courses
 * STAT2902 Financial mathematics ([syllabus](https://webapp.science.hku.hk/sr4/servlet/enquiry?Type=Course&course_code=STAT2902))

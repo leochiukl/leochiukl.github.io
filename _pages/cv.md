@@ -34,12 +34,12 @@ redirect_from:
 
 * Student Research Assistant (Jul 2025 -- Aug 2025)
   * School of Computing and Data Science, The University of Hong Kong
-  * Supervisor: Prof. Tim Boonen
+  * Supervisor: [Prof. Tim Boonen](https://saasresearch.hku.hk/~tjboonen/)
 
 * Undergraduate Research Fellow (Jun 2024 -- Dec 2024)
   * Department of Statistics and Actuarial Science, The University of Hong Kong
   * [URFP](https://www.scifac.hku.hk/current/ug/el/research/undergraduate-research-fellowship-programme-urfp) 2024-25: Project Course ([STAT4798](https://saasweb.hku.hk/courses/as-project/)) & Summer Research Internship
-  * Supervisors: Prof. Tim Boonen and Prof. Ka Chun Cheung
+  * Supervisors: [Prof. Tim Boonen](https://saasresearch.hku.hk/~tjboonen/) and [Prof. Ka Chun Cheung](https://saasresearch.hku.hk/~kccg/)
 
 * Actuarial Intern (Jun 2023 -- Jan 2024)
   * Prudential Corporation Asia
