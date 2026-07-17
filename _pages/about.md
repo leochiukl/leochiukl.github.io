@@ -8,12 +8,15 @@ redirect_from:
 ---
 
 I am Leo, a first-class honours graduate in Actuarial Science from the
-University of Hong Kong (HKU) and a prospective PhD student in Actuarial
-Science at HKU, commencing in Fall 2026.  I am deeply grateful that my doctoral
-studies are supported by the [Croucher Research
+University of Hong Kong (HKU) and an incoming PhD student in Actuarial Science
+at HKU, commencing in Fall 2026. I am deeply grateful that my doctoral studies
+are supported by the [Croucher Research
 Studentship](https://croucher.org.hk/en/fellows-and-scholars/leo-chiu), the
-[Society of Actuaries Hickman Scholar Doctoral Stipend](https://www.soa.org/education/resources/academic-initiatives/soa-doc-stipend/), the [Hong Kong PhD
-Fellowship](https://cerg1.ugc.edu.hk/hkpfs/index.html), and the [HKU Presidential PhD Scholarship](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/hku_presidential_phd_scholar_programme).
+[Society of Actuaries Hickman Scholar Doctoral
+Stipend](https://www.soa.org/education/resources/academic-initiatives/soa-doc-stipend/),
+the [Hong Kong PhD Fellowship](https://cerg1.ugc.edu.hk/hkpfs/index.html), and
+the [HKU Presidential PhD
+Scholarship](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/hku_presidential_phd_scholar_programme).
 
 My research interests lie in actuarial science and risk sharing, particularly
 the analysis of risk-sharing arrangements under behavioural theories of
