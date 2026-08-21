@@ -7,10 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am Leo, a first-class honours graduate in Actuarial Science from the
-University of Hong Kong (HKU) and an incoming PhD student in Actuarial Science
-at HKU, commencing in Fall 2026. I am deeply grateful that my doctoral studies
-are supported by the [Croucher Research
+I am Leo, an incoming PhD student in Actuarial Science at the University of
+Hong Kong (HKU) under the supervision of [Prof. Ka Chun
+Cheung](https://saasresearch.hku.hk/~kccg/), commencing in Fall 2026. I also
+completed my undergraduate studies in Actuarial Science there with First Class
+Honours. I am deeply grateful that my doctoral studies are supported by the
+[Croucher Research
 Studentship](https://croucher.org.hk/en/fellows-and-scholars/leo-chiu), the
 [Society of Actuaries Hickman Scholar Doctoral
 Stipend](https://www.soa.org/education/resources/academic-initiatives/soa-doc-stipend/),
@@ -20,17 +22,16 @@ Scholarship](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_f
 
 My research interests lie in actuarial science and risk sharing, particularly
 the analysis of risk-sharing arrangements under behavioural theories of
-decision-making. Risk sharing involves distributing losses among individuals
-and underlies many aspects of everyday life. For example, purchasing an
-insurance policy means sharing one’s risk with an insurance company. It is also
-central to decentralized insurance, an emerging area in decentralized finance
-(DeFi) in which individuals exchange risks directly without relying on a
-central intermediary such as an insurer. Since people’s decisions to
-participate in these arrangements are often influenced by their perceptions and
-behavioural biases, my research aims to incorporate these realistic behavioural
-elements into risk-sharing analysis. Through this work, I hope to connect
-actuarial theory with practice and contribute to the effective design of
-decentralized insurance.
+decision-making. Risk sharing involves allocating losses among individuals and
+underpins many aspects of everyday life. For example, an insurance policy
+allocates losses between an individual and an insurer. It is also central to
+decentralized insurance, an emerging area in decentralized finance (DeFi) in
+which individuals exchange risks directly without relying on a central
+intermediary. Since people’s decisions to participate in these arrangements are
+often influenced by their perceptions and behavioural biases, my research aims
+to incorporate these realistic behavioural elements into risk-sharing analysis.
+Through this work, I hope to connect actuarial theory with practice and
+contribute to the effective design of decentralized insurance.
 
 Teaching is equally important to me. During my undergraduate studies, I served
 as a peer tutor, an experience that strengthened my passion for explaining

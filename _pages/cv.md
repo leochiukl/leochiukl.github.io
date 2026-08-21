@@ -24,7 +24,7 @@ redirect_from:
     * Dr Patrick S C Poon Scholarship in Actuarial Science (2021--22)
 
 # Experience
-* Junior Research Assistant (May 2026 -- Present)
+* Junior Research Assistant (May 2026 -- Aug 2026)
   * Department of Statistics and Data Science, The Chinese University of Hong Kong
   * Supervisor: [Prof. Phillip Yam](https://www.sta.cuhk.edu.hk/scpy/)
 
