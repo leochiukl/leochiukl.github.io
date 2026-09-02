@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Leo, an incoming PhD student in Actuarial Science at the University of
+I am Leo, a PhD student in Actuarial Science at the University of
 Hong Kong (HKU) under the supervision of [Prof. Ka Chun
-Cheung](https://saasresearch.hku.hk/~kccg/), commencing in Fall 2026. I also
+Cheung](https://saasresearch.hku.hk/~kccg/). I also
 completed my undergraduate studies in Actuarial Science there with First Class
 Honours. I am deeply grateful that my doctoral studies are supported by the
 [Croucher Research

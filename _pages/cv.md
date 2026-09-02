@@ -10,7 +10,14 @@ redirect_from:
 {% include base_path %}
 
 # Education
-* [Bachelor of Science in Actuarial Science](https://saasweb.hku.hk/programme/as.php), The University of Hong Kong, 2026
+* [PhD in Actuarial Science](https://saasweb.hku.hk/programme/rpg/mphil-phd), The University of Hong Kong
+  * Supervisor: [Prof. Ka Chun Cheung](https://saasresearch.hku.hk/~kccg/)
+  * Awards:
+    * HKU Presidential PhD Scholarship (2026--30)
+    * Croucher Research Studentship (2026--29)
+    * Hong Kong PhD Fellowship (2026--29)
+    * Society of Actuaries Hickman Scholar Doctoral Stipend (2026--27)
+* [Bachelor of Science in Actuarial Science](https://saasweb.hku.hk/programme/ug/bsc_actuarsc), The University of Hong Kong, 2026
   * Minor in Mathematics
   * First Class Honours (GPA: 4.05/4.30)
   * Supervisors: [Prof. Tim Boonen](https://saasresearch.hku.hk/~tjboonen/) and [Prof. Ka Chun Cheung](https://saasresearch.hku.hk/~kccg/)
